@@ -29,7 +29,7 @@ The following pin connections should be used for the hardware:
 - DREQ: 2
 - PIR_PIN: 3
 - CRADLE_PIN: 5
-- 
+
 ## Software Functionality:
 - Initialises Adafruit VS1053 FilePlayer and SD card.
 - Listens for a HIGH signal from the PIR sensor (indicating motion is detected) to trigger the phone to ring (plays /ring.mp3).
