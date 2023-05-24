@@ -1,5 +1,5 @@
 
-# Interactive Rotary Telephone Project Readme
+# Interactive Rotary Telephone Box
 This is an Arduino-based project for a rotary telephone, designed for interactive exhibitions. When someone approaches the telephone, a PIR sensor triggers the phone to ring. If the phone is lifted off the cradle, a random audio recording is played. The current setup plays a static test audio file.
 
 ## Components Used:
