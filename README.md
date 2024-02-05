@@ -1,7 +1,16 @@
 
 # Interactive Rotary Telephone Box
-This is an Arduino-based project for a rotary telephone, designed for interactive exhibitions. When someone approaches the telephone, a PIR sensor triggers the phone to ring. If the phone is lifted off the cradle, a random audio recording is played. The current setup plays a static test audio file.
+This Arduino-based project breathes new life into a classic rotary telephone, transforming it into an immersive cultural storytelling device. Situated in a boutique hotel, within a meticulously re-created red Telephone box, this installation offers guests an interactive experience that melds nostalgia with innovation.
 
+![Red Telephone Box](/img/red-telphone-box.jpeg)
+
+## How It Works
+- **Sensor Activation:** As guests approach the Telephone box, they activate a proximity sensor, which in turn causes the rotary phone to ring. This not only draws attention but also invites interaction.
+- **Storytelling Playback:** Lifting the phone from the cradle initiates an audio playback of storytelling recordings. These stories, rich in cultural heritage, are designed to immerse listeners and enhance the boutique hotel's ambiance through narrative.
+
+## Objective
+
+The installation aims to create an unforgettable experience for hotel guests, connecting them with cultural tales through an innovative medium. By merging historical elements with contemporary technology, the project enriches the hotel's environment, offering guests a unique opportunity to engage with the past in a uniquely dynamic way.
 ## Components Used:
 - Arduino board
 - PIR sensor
