@@ -2,7 +2,7 @@
 # Interactive Rotary Telephone Box
 This Arduino-based project breathes new life into a classic rotary telephone, transforming it into an immersive cultural storytelling device. Situated in a boutique hotel, within a meticulously re-created red Telephone box, this installation offers guests an interactive experience that melds nostalgia with innovation.
 
-![Red Telephone Box](/img/red-telphone-box.jpeg)
+![Red Telephone Box](/img/red-telephone-banner.jpg)
 
 ## How It Works
 - **Sensor Activation:** As guests approach the Telephone box, they activate a proximity sensor, which in turn causes the rotary phone to ring. This not only draws attention but also invites interaction.
